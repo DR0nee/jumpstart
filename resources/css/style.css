@@ -1,0 +1,18 @@
+html {
+  font-size: 22px;
+}
+
+body {
+  font-family: "Open sans";
+}
+
+
+
+
+ /* bootstrap override */
+
+ .navbar-default .navbar-nav > .active > a,
+ .navbar-default .navbar-nav > .active > a:hover {
+   color: deepskyblue;
+   background-color: inherit;
+ }
